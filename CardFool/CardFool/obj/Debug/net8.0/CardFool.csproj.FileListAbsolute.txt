@@ -1,0 +1,14 @@
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\bin\Debug\net8.0\CardFool.exe
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\bin\Debug\net8.0\CardFool.deps.json
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\bin\Debug\net8.0\CardFool.runtimeconfig.json
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\bin\Debug\net8.0\CardFool.dll
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\bin\Debug\net8.0\CardFool.pdb
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.AssemblyInfoInputs.cache
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.AssemblyInfo.cs
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.csproj.CoreCompileInputs.cache
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.dll
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\refint\CardFool.dll
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.pdb
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\CardFool.genruntimeconfig.cache
+D:\Teach\Программирование\dl\300Additional\CardFool\CardFool\obj\Debug\net8.0\ref\CardFool.dll
